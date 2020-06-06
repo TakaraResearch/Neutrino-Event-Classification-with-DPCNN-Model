@@ -1,6 +1,6 @@
 # Neutrino Event Classification with DPCNN Model
 This project is developed to provide classification solution for **Background Alpha** and **Neutrino Beta** Events from the 
-Jinping Neutrino Experiment.
+Jinping Neutrino Experiment Simulation.
 
 The **Deep Pyramid Convolution Neural Network(DPCNN)** Method is implemented to generate results **approximate to the dataset 
 performance limit**.
